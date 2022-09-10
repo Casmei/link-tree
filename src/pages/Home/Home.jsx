@@ -15,7 +15,7 @@ const Home = () => {
                 <div className="group w-full 2xl:w-3/6 px-12 block 2xl:flex 2xl:justify-center overflow-y-auto">
                 <div className="block mb-6 bottom-full 2xl:bottom-auto 2xl:right-full mr-5">
                     <div className="w-24 h-24 md:h-32 md:w-32 overflow-hidden transition duration-300 rounded-2xl shadow">
-                        <img src={me} />
+                        <img src={me} alt={"Tiago de Castro"} />
                     </div>
                 </div>
                 <div className="w-full justify-center flex flex-col gap-4">
